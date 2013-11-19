@@ -11,7 +11,7 @@
 #import "AppDelegate.h"
 
 @implementation AppDelegate
-
+///ffffff
 #pragma mark - Added methods
 // 每執行一次app就reorder一次
 - (void)ReOrderApplicationIconBadgeNumber
